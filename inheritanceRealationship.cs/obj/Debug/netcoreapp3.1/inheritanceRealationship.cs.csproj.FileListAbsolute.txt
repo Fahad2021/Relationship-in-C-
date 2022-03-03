@@ -1,0 +1,14 @@
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\bin\Debug\netcoreapp3.1\inheritanceRealationship.cs.exe
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\bin\Debug\netcoreapp3.1\inheritanceRealationship.cs.deps.json
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\bin\Debug\netcoreapp3.1\inheritanceRealationship.cs.runtimeconfig.json
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\bin\Debug\netcoreapp3.1\inheritanceRealationship.cs.runtimeconfig.dev.json
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\bin\Debug\netcoreapp3.1\inheritanceRealationship.cs.dll
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\bin\Debug\netcoreapp3.1\inheritanceRealationship.cs.pdb
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.csproj.AssemblyReference.cache
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.AssemblyInfoInputs.cache
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.AssemblyInfo.cs
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.csproj.CoreCompileInputs.cache
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.dll
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.pdb
+D:\SATCOM(intern)\inheritanceRealationship.cs\inheritanceRealationship.cs\obj\Debug\netcoreapp3.1\inheritanceRealationship.cs.genruntimeconfig.cache
